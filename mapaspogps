@@ -1,0 +1,21 @@
+[
+  {
+        "key": "CMJ",
+        "latitude": -22.736338382852953,
+        "longitude": -45.598567294487594,
+        "name": "CAMPOS DO JORDÃO - SP"
+  },
+  {
+        "key": "ITA",
+        "latitude": -24.17689957202604,
+        "longitude": -46.772950201624646,
+        "name": "CIDADE DE ITANHANHEI - SP"
+  },
+  {
+        "key": "SPO",
+        "latitude": -23.56888840510729,
+        "longitude": -46.63902994607937,
+        "name": "SAO PAULO CAPITAL - SPO"
+ 
+  }
+]
